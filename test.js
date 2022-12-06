@@ -1,2 +1,4 @@
-let i =1
-const o =0
+let i ='sssssssssssssssssssssss'
+let i ='sssssssssssssssssssssss'
+let i ='sssssssssssssssssssssss'
+let i ='sssssssssssssssssssssss'
