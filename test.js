@@ -1,6 +1,11 @@
-let = 114
-let = 114
-let = 114
-let = 114
-let = 114
-let = 114
+
+console.log('ssss')
+console.log('ssss')
+console.log('ssss')
+
+
+console.log('ssss')
+console.log('ssss')
+
+console.log('ssss')
+console.log('ssss')
