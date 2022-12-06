@@ -1,13 +1,6 @@
-let i =1
-console.log('sss')
-let i =1
-console.log('sss')
-
-let i =1
-console.log('sss')
-let i =1
-console.log('sss')
-let i =1
-console.log('sss')
-const o =0
-
+let = 114
+let = 114
+let = 114
+let = 114
+let = 114
+let = 114
