@@ -1,1 +1,2 @@
-console.log('test')
+let i =1
+const o =0
